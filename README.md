@@ -1,2 +1,2 @@
 # netflix-home-page
-https://2002-rohit.github.io/netflix-home-page/
+https://netflix-clone-het1.onrender.com
